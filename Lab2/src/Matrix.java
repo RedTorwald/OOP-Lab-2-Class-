@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class Matrix{
+public class Matrix{
     public final int rows; // сделать public, т.к. имеют final
     public final int columns;// сделать public, т.к. имеют final
     private int[][] matrix;
